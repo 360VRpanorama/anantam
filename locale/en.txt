@@ -10,19 +10,16 @@ tour.name = GangaAnantam
 ## Media
 
 ### Title
-panorama_50079561_5AFB_C778_41BE_AB1B3CE4DEE6.label = Cloud 60_360
-panorama_50091E8A_5AFB_C5CB_41CA_AFDA1B69618D.label = Landscape_360 (1)
-panorama_50646D8B_5A1C_22FF_41A5_BC76156C8F87.label = Living
-panorama_506E7A88_5A1C_26F9_41D6_5F706A1C0CEA.label = Cloud 60
-panorama_5073A747_5A1C_EE77_41D5_BF748804C2A4.label = Kids Area
-panorama_50743298_5A1C_6619_419B_66E7C9E6A880.label = Entrance
-panorama_5074925E_5A1C_2619_41CA_31F3DD1B0379.label = Bathroom
-panorama_5075718C_5A1C_E2F9_41D1_D997CA97C73A.label = Elevator
-panorama_50777F3F_5A1C_DE17_41C7_5BC866E5E021.label = Kitchen
-panorama_5077B022_5A1C_E229_41CB_614B5D228BFA.label = Indoor Games
-panorama_507A44C1_5A1C_226B_41CF_60A11F0AA77F.label = Multipurpose
-panorama_507C0B6D_5A1C_263B_41CB_B4E1F0CD8E41.label = Bedroom
-panorama_507F029A_5A1C_2619_414E_97B75282A6A4.label = Business Centre
-panorama_507F7636_5A1C_2E29_41CA_70ABCCC8C6C6.label = Landscape
-panorama_50832A69_5A1C_663B_41B3_690962987399.label = Balcony
-panorama_56E04C96_5AFB_C5D8_41C0_42433B696AC5.label = Balcony_360
+panorama_414C7F3C_5D60_C713_4182_3A46899D17CF.label = Cloud 60
+panorama_415A0310_5D60_7F13_41C4_F3991D2BAD66.label = Living
+panorama_415A0C63_5D60_C936_41D3_3BDB2499A089.label = Indoor Games
+panorama_415A1641_5D60_B975_41C1_5AE316C6811D.label = Kids Area
+panorama_415A3949_5D61_CB72_41D3_EDBAF780997E.label = Observatory Deck
+panorama_415A6019_5D60_5912_41C5_B86D2D0B885C.label = Kitchen
+panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5.label = Entrance Lobby
+panorama_415AD94E_5D60_CB0F_41D5_C0DB1311696E.label = Lift Lobby
+panorama_415BD91E_5D60_4B0E_41C9_05BB54D90E8D.label = Landscape
+panorama_415BDF84_5D60_47F2_4195_CB96226DD358.label = Multipurpose Hall
+panorama_415BF581_5D60_5BF5_41C5_216EBB13F5A9.label = Master Bedroom
+panorama_415BFB6A_5D60_4F36_41C0_9D65F705DD78.label = Master Bathroom
+panorama_43E5A2C8_5D60_D972_41A3_FAA7DA55B02B.label = Business Centre
