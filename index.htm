@@ -6,21 +6,21 @@
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <link rel="preload" href="locale/en.txt?v=1728145542998" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1728145542998" as="script"/>
-	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/r/2/0_0.jpg?v=1728145542998" as="image"/>
-	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/l/2/0_0.jpg?v=1728145542998" as="image"/>
-	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/u/2/0_0.jpg?v=1728145542998" as="image"/>
-	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/d/2/0_0.jpg?v=1728145542998" as="image"/>
-	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/f/2/0_0.jpg?v=1728145542998" as="image"/>
-	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/b/2/0_0.jpg?v=1728145542998" as="image"/>
+    <link rel="preload" href="locale/en.txt?v=1728180638577" as="fetch" crossorigin="anonymous"/>
+	<link rel="preload" href="script.js?v=1728180638577" as="script"/>
+	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/r/2/0_0.jpg?v=1728180638577" as="image"/>
+	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/l/2/0_0.jpg?v=1728180638577" as="image"/>
+	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/u/2/0_0.jpg?v=1728180638577" as="image"/>
+	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/d/2/0_0.jpg?v=1728180638577" as="image"/>
+	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/f/2/0_0.jpg?v=1728180638577" as="image"/>
+	<link rel="preload" href="media/panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5_0/b/2/0_0.jpg?v=1728180638577" as="image"/>
 	<meta name="description" content="Virtual Tour"/>
 	<meta name="theme-color" content="#2A2A2A"/>
-    <script src="lib/tdvplayer.js?v=1728145542998"></script>
-    <script src="script.js?v=1728145542998"></script>
+    <script src="lib/tdvplayer.js?v=1728180638577"></script>
+    <script src="script.js?v=1728180638577"></script>
     <script type="text/javascript">
         var tour;
-        var devicesUrl = {"ipad":"script_general.js?v=1728145542998","mobile":"script_mobile.js?v=1728145542998","general":"script_general.js?v=1728145542998"};
+        var devicesUrl = {"mobile":"script_mobile.js?v=1728180638577","ipad":"script_general.js?v=1728180638577","general":"script_general.js?v=1728180638577"};
 
         (function()
         {
@@ -63,9 +63,9 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1728145542998');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1728145542998');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1728145542998');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1728180638577');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1728180638577');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1728180638577');
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
@@ -311,7 +311,7 @@
         #viewer { z-index:1; }
         #preloadContainer { z-index:2; opacity:0; background-color:rgba(42,42,42,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
     </style>
-    <link rel="stylesheet" href="fonts.css?v=1728145542998">
+    <link rel="stylesheet" href="fonts.css?v=1728180638577">
 </head>
 <body>
     <div id="preloadContainer" class="fill-viewport"><div style="z-index: 4; position: absolute; left: 0%; top: 50%; width: 100.00%; height: 10.00%"><div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#777777;font-size:1.39vmin;font-family:Arial, Helvetica, sans-serif;">Loading virtual tour. Please wait...</SPAN></DIV><p STYLE="margin:0; line-height:1.02vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.02vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div></div></div>
