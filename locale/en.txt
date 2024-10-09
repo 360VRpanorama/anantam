@@ -24,6 +24,7 @@ panorama_415BDF84_5D60_47F2_4195_CB96226DD358.label = Multipurpose Hall
 panorama_415BF581_5D60_5BF5_41C5_216EBB13F5A9.label = Master Bedroom
 panorama_415BFB6A_5D60_4F36_41C0_9D65F705DD78.label = Master Bathroom
 panorama_43E5A2C8_5D60_D972_41A3_FAA7DA55B02B.label = Business Centre
+panorama_60C62343_6F3F_7D7E_4177_5E47C4944671.label = Top 360
 
 ## Hotspot
 
