@@ -18,12 +18,12 @@ panorama_415A3949_5D61_CB72_41D3_EDBAF780997E.label = Observatory Deck
 panorama_415A6019_5D60_5912_41C5_B86D2D0B885C.label = Kitchen
 panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5.label = Entrance Lobby
 panorama_415AD94E_5D60_CB0F_41D5_C0DB1311696E.label = Lift Lobby
-panorama_415BD91E_5D60_4B0E_41C9_05BB54D90E8D.label = Landscape
 panorama_415BDF84_5D60_47F2_4195_CB96226DD358.label = Multipurpose Hall
 panorama_415BF581_5D60_5BF5_41C5_216EBB13F5A9.label = Master Bedroom
 panorama_415BFB6A_5D60_4F36_41C0_9D65F705DD78.label = Master Bathroom
 panorama_43E5A2C8_5D60_D972_41A3_FAA7DA55B02B.label = Business Centre
 panorama_60C62343_6F3F_7D7E_4177_5E47C4944671.label = Top 360
+panorama_6920BA66_7960_F1D2_41C7_DCC35236693B.label = Landscape
 
 ## Hotspot
 
