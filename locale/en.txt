@@ -10,7 +10,6 @@ tour.name = GangaAnantam
 ## Media
 
 ### Title
-map_47E85684_5DE7_CE69_41C5_9D2441AA2F61.label = Top Plan
 panorama_414C7F3C_5D60_C713_4182_3A46899D17CF.label = Cloud 60
 panorama_415A0310_5D60_7F13_41C4_F3991D2BAD66.label = Living
 panorama_415A0C63_5D60_C936_41D3_3BDB2499A089.label = Indoor Games
@@ -29,14 +28,6 @@ panorama_60C62343_6F3F_7D7E_4177_5E47C4944671.label = Top 360
 ## Hotspot
 
 ### Tooltip
-HotspotMapOverlayArea_40CECBC9_5DE5_45FB_41C6_538893892D9E.toolTip = Indoor Games
-HotspotMapOverlayArea_40FF8C35_5DEB_C2AB_41D2_2B3F4C96F9BC.toolTip = Multipurpose Hall
-HotspotMapOverlayArea_41A788BB_5DED_439F_41C1_E7B214B953BC.toolTip = Business Centre
-HotspotMapOverlayArea_41D5C0B6_5DEC_C3A9_41CA_BEFE0DA0DBCD.toolTip = 4Bhk
-HotspotMapOverlayArea_441E8FDE_5DE5_3D99_41D3_C7AA79580B96.toolTip = Cloud 60
-HotspotMapOverlayArea_460A7DD9_5DED_5D9B_41D5_E848A1036683.toolTip = Kids Area
-HotspotMapOverlayArea_4637186D_5DEC_C2B8_41AD_D61CF9D91206.toolTip = Entrance Lobby
-HotspotMapOverlayArea_47ACDF98_5DE4_DD99_41D3_7491BE9DA950.toolTip = Landscape
 HotspotPanoramaOverlayArea_443A0D05_5DE4_C26B_41D5_3451A7DE9B10.toolTip = Enterance Lobby
 HotspotPanoramaOverlayArea_4868DA73_5DAD_46AF_41D1_C1B340E2AC5F.toolTip = Entrance Lobby
 HotspotPanoramaOverlayArea_4875BA0A_5DAC_C678_41CE_D2A4D46A91BD.toolTip = Business Center
