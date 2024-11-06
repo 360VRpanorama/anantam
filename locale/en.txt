@@ -10,7 +10,7 @@ tour.name = GangaAnantam
 ## Media
 
 ### Title
-panorama_21470F8D_004B_FA1F_40F0_B8FD26C2E6A0.label = Top 360
+panorama_235006FF_005E_8BFB_4139_77D2CD0A1868.label = Top 360
 panorama_415A0310_5D60_7F13_41C4_F3991D2BAD66.label = Living
 panorama_415A0C63_5D60_C936_41D3_3BDB2499A089.label = Indoor Games
 panorama_415A1641_5D60_B975_41C1_5AE316C6811D.label = Kids Area
