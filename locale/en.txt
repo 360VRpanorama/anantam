@@ -11,14 +11,14 @@ tour.name = GangaAnantam
 
 ### Title
 panorama_004DCBD0_0EEE_193D_41A9_D6155735AD01.label = Site Plan
-panorama_415A0310_5D60_7F13_41C4_F3991D2BAD66.label = Living & Dining
+panorama_14D74CC5_1ADE_711A_4160_E84DBA25F848.label = Living & Dining
+panorama_14F2D92C_1ADE_736A_4190_1AD3FC902CEA.label = Master Bedroom
 panorama_415A0C63_5D60_C936_41D3_3BDB2499A089.label = Indoor Games
 panorama_415A1641_5D60_B975_41C1_5AE316C6811D.label = Kids Area
 panorama_415A6019_5D60_5912_41C5_B86D2D0B885C.label = Kitchen
 panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5.label = Entrance Lobby
 panorama_415AD94E_5D60_CB0F_41D5_C0DB1311696E.label = Private Elevator
 panorama_415BDF84_5D60_47F2_4195_CB96226DD358.label = Multipurpose Hall
-panorama_415BF581_5D60_5BF5_41C5_216EBB13F5A9.label = Master Bedroom
 panorama_415BFB6A_5D60_4F36_41C0_9D65F705DD78.label = Master Bathroom
 panorama_43E5A2C8_5D60_D972_41A3_FAA7DA55B02B.label = Business Centre
 panorama_6920BA66_7960_F1D2_41C7_DCC35236693B.label = Landscape
