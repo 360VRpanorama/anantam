@@ -25,7 +25,7 @@ panorama_6920BA66_7960_F1D2_41C7_DCC35236693B.label = Landscape
 panorama_ECE47CEA_FFD7_BE04_41BF_5C3E05E49AFA.label = Balcony 1
 panorama_EDD70FC6_FFDA_9A0D_41EC_BAE46275C3B7.label = Cloud 60
 panorama_F4125A14_FF7A_BC13_41DD_60C259271BB4.label = Balcony 2
-panorama_F41350C2_FF7A_EC77_41DB_CB2526FE6CE9.label = Entrance Lift
+panorama_F41350C2_FF7A_EC77_41DB_CB2526FE6CE9.label = Common Elevator
 panorama_F413581F_FF7A_FC0D_41DB_0ABC74FB73A6.label = Infinity Pool
 
 ## Hotspot
@@ -35,7 +35,7 @@ HotspotPanoramaOverlayArea_1ECC0708_0EF6_092E_4180_C33E390F203D.toolTip = 4BHK
 HotspotPanoramaOverlayArea_443A0D05_5DE4_C26B_41D5_3451A7DE9B10.toolTip = Enterance Lobby
 HotspotPanoramaOverlayArea_4868DA73_5DAD_46AF_41D1_C1B340E2AC5F.toolTip = Entrance Lobby
 HotspotPanoramaOverlayArea_498F193A_5DBB_C299_41C4_8390DB3040AF.toolTip = Living Room
-HotspotPanoramaOverlayArea_49D5465B_5DAB_4E9F_4182_B9B28CDF1C0E.toolTip = Private Elevator
+HotspotPanoramaOverlayArea_49D5465B_5DAB_4E9F_4182_B9B28CDF1C0E.toolTip = Common Elevator
 HotspotPanoramaOverlayArea_4A051692_5DE7_CE68_41D5_A79818C6D317.toolTip = Landscape
 HotspotPanoramaOverlayArea_4C7C7954_5DAC_C2E9_41CC_5F1476C98C35.toolTip = Kids Area
 HotspotPanoramaOverlayArea_4CB15DCD_5DAF_3DFB_41A2_634A63D1B819.toolTip = Landscape
@@ -77,4 +77,4 @@ HotspotPanoramaOverlayArea_ECAA334E_FFF9_8A1D_4183_985A0A0EF680.toolTip = Balcon
 HotspotPanoramaOverlayArea_ED0F2F19_FFF6_BA04_41DF_2C9B35A73E3D.toolTip = Cloud 60
 HotspotPanoramaOverlayArea_EE7CD27B_FFCF_8AFB_41E0_354DBF1B5299.toolTip = Infinity Pool
 HotspotPanoramaOverlayArea_EF0DB879_FFCA_8604_41D9_69DE72341E82.toolTip = Site PLan
-HotspotPanoramaOverlayArea_F0EED8E7_FFCF_860C_41CA_A66750BC7D3C.toolTip = Entrance Lift
+HotspotPanoramaOverlayArea_F0EED8E7_FFCF_860C_41CA_A66750BC7D3C.toolTip = Common Elevator
