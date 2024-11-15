@@ -12,6 +12,7 @@ tour.name = GangaAnantam
 ### Title
 panorama_14D74CC5_1ADE_711A_4160_E84DBA25F848.label = Living & Dining
 panorama_14F2D92C_1ADE_736A_4190_1AD3FC902CEA.label = Master Bedroom
+panorama_2152C99C_2DC9_7E04_41B7_B0BA2E3F237D.label = Common Elevator
 panorama_232D50F6_28CC_BF8B_41BD_15261DF879F0.label = Bedroom
 panorama_2403558D_2876_07DE_41BA_AFD567B256E1.label = Balcony 2
 panorama_24DC86B5_2876_05CE_41B9_5047FC1BC3E6.label = Balcony 1
@@ -22,17 +23,17 @@ panorama_415A6019_5D60_5912_41C5_B86D2D0B885C.label = Kitchen
 panorama_415A7300_5D60_D8F2_41C4_823B8779AAC5.label = Entrance Lobby
 panorama_415AD94E_5D60_CB0F_41D5_C0DB1311696E.label = Private Elevator
 panorama_415BDF84_5D60_47F2_4195_CB96226DD358.label = Socio-Club
-panorama_415BFB6A_5D60_4F36_41C0_9D65F705DD78.label = Master Bathroom
+panorama_415BFB6A_5D60_4F36_41C0_9D65F705DD78.label = Bathroom
 panorama_43E5A2C8_5D60_D972_41A3_FAA7DA55B02B.label = Business Centre
 panorama_6920BA66_7960_F1D2_41C7_DCC35236693B.label = Landscape
 panorama_EDD70FC6_FFDA_9A0D_41EC_BAE46275C3B7.label = Cloud 60
-panorama_F41350C2_FF7A_EC77_41DB_CB2526FE6CE9.label = Common Elevator
 panorama_F413581F_FF7A_FC0D_41DB_0ABC74FB73A6.label = Infinity Pool
 
 ## Hotspot
 
 ### Tooltip
 HotspotPanoramaOverlayArea_1ECC0708_0EF6_092E_4180_C33E390F203D.toolTip = Apartment
+HotspotPanoramaOverlayArea_220AA1BD_2DC8_8E04_41B8_3D047E637931.toolTip = Common Elevator
 HotspotPanoramaOverlayArea_251E73ED_288A_0359_41C0_CF8FA87D292A.toolTip = Master Bedroom
 HotspotPanoramaOverlayArea_264B9859_28C4_8E86_41A0_193E2F0986C4.toolTip = Living & Dining
 HotspotPanoramaOverlayArea_443A0D05_5DE4_C26B_41D5_3451A7DE9B10.toolTip = Enterance Lobby
